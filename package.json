@@ -1,0 +1,21 @@
+{
+  "name": "cdnjs-qiniu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auto-update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wuweixing",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs-extra": "^0.30.0",
+    "is-there": "^4.3.3",
+    "lodash": "^4.13.1",
+    "semver": "^5.1.1",
+    "semver-stable": "^2.0.4",
+    "superagent": "^2.0.0",
+    "tarball-extract": "0.0.3"
+  }
+}

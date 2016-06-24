@@ -1,0 +1,8 @@
+{
+  "src": "./ajax/libs",
+  "dest": "qiniu:access_key=[AK]&secret_key=[SK]&bucket=[bucket]",
+  "deletable": 0,
+  "prefetch": 0,
+  "prefetchDomains": ["[domains]"],
+  "debug_level": 1
+}
